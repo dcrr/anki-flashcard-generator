@@ -2,3 +2,4 @@
 */__pycache__/*
 src/files/*
 .env
+*.code-workspace

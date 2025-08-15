@@ -12,6 +12,7 @@ from pdf_reader import PDFReader
 env = Env()
 env.read_env()
 
+# this is the main funtion, bullet was here.
 
 def main():
 
